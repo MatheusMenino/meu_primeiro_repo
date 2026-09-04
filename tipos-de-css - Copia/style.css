@@ -1,0 +1,38 @@
+*{
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+	.card {
+		width: 500px;
+		height: fit-content;
+		background-color: aliceblue;
+		border-radius: 25px;
+		border: solid 2px #006eff;
+		margin: 20px;
+		padding: 20px;
+	}
+
+	.perfil {
+		width: 100px;
+		height: 100px;
+		border-radius: 50%;
+	}
+
+	img {
+		width: 100%;
+		height: 100%;
+	}
+
+	.nome{
+		font-size: 30px;
+		color: #006eff;
+	}
+	.cor-padrao{
+		color: #230575;
+	}
+	p{
+		font-size: 15px;
+	}
+	#msg{
+		font-style: italic;
+	}
